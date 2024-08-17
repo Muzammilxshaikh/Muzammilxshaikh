@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muzammilxshaikh
-- 👀 I’m interested in Data Analytics and also data engineering
-- 🌱 I’m currently learning python and pyspark 
-- 💞️ I’m looking to collaborate on python projects 
+- 👀 I’m a Data Analyst and also a budding Data engineering-
+- 💞️ I’m looking to collaborate on Data Analytics projects and ideas.
 - 📫 How to reach me : linkedin.com/in/muzammil-shaikh-2806aa168
 - 😄 Pronouns: :)(:
 - ⚡ Fun fact: believe me i am a Mechanical Engineer
